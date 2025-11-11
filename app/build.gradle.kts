@@ -7,12 +7,12 @@ plugins {
 android {
     namespace = "com.esrac.snakegame"
     compileSdk {
-        version = release(36)
+        version = release(35)
     }
 
     defaultConfig {
         applicationId = "com.esrac.snakegame"
-        minSdk = 24
+        minSdk = 31
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
